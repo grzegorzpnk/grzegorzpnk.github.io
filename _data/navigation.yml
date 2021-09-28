@@ -2,7 +2,7 @@ main:
   - title: "Hello"
     url: /hello/
   - title: "Networks"
-    url: /network/
+    url: /networks/
   - title: "5g"
     url: /5g/
   - title: "About"
