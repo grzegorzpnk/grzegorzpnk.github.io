@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /networks/
+title: "Networks"
 ---
 
 # This site will give an overview of 5G and its ecosystem
